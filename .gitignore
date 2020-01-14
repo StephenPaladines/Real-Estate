@@ -1,0 +1,5 @@
+creds.json
+__pycache__
+geckodriver.log
+Pipfile.lock
+config.py
